@@ -7,6 +7,8 @@ for _ in range(10000):
     array.append(randint(1,100))
 
 def insertion_sort(list):
+    if len(list) <= 1:
+        return list
     for i in range(1, len(list)):
         j = i - 1
         key = list[i]

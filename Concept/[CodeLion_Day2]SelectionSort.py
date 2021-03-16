@@ -4,6 +4,8 @@ from random import randint
 import time
 
 def selection_sort(list):
+    if len(list) <= 1:
+        return list
     for i in range(len(list)):
         min_index = i
         for j in range(i + 1, len(list)):

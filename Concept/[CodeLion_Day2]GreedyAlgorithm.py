@@ -1,6 +1,6 @@
 # Greedy Algorithm
 
-N = 1260
+N = 1260 # 임의의 돈
 
 def greedy(n):
     count = 0

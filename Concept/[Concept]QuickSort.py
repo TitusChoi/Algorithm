@@ -26,4 +26,4 @@ quick_sort(array)
 end_time = time.time()
 
 print("퀵 정렬 성능 측정:", end_time - start_time)
-# 0.009939908981323242 sec
+# 0.012964010238647461 sec

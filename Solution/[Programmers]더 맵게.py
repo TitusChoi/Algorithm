@@ -1,5 +1,6 @@
-# 주제 : Heap
-# 문제 : https://programmers.co.kr/learn/courses/30/lessons/42626
+# Title         : [Programmers]더 맵게.py
+# Description   : heap
+# Link          : https://programmers.co.kr/learn/courses/30/lessons/42626
 
 import heapq
 

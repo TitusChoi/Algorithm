@@ -1,4 +1,5 @@
-# Greedy Algorithm
+# Title         : [CodeLion_Day2]GreedyAlgorithm.py
+# Description   : greedy
 
 N = 1260 # 임의의 돈
 

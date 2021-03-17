@@ -1,4 +1,5 @@
-# [B2753]윤년
+# Title         : [B2753]윤년.py
+# Description   : print, condition
 
 year = int(input())
 

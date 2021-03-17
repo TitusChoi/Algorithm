@@ -1,4 +1,5 @@
-# [B9498]시험 성적
+# Title         : [B9498]시험 성적.py
+# Description   : print, condition
 
 def grade(score):
     if (score <= 100) and (score >= 90):

@@ -1,6 +1,5 @@
-# day 3
-
-# Subject : Greedy Algorithm
+# Title         : [CodeLion_Day3]큰 수의 법칙.py
+# Description   : greedy
 
 # 손 풀기 문제
 # n, m = map(int, input().split())

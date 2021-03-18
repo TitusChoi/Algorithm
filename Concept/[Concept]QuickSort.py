@@ -5,9 +5,11 @@ from random import randint
 import time
 
 def quick_sort(array):
-    if len(array) <= 1:
+    n = len(array) # len 함수도 for문이므로 시간복잡도 해결을 위해 제거
+    
+    if n <= 1:
         return array
-    pivot = array[len(array) // 2]
+    pivot = array[n // 2]
     less, equal, greater = [], [], []
     for i in array:
         if i < pivot:

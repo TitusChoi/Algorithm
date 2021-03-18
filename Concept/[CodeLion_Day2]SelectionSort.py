@@ -5,11 +5,13 @@ from random import randint
 import time
 
 def selection_sort(array):
-    if len(array) <= 1:
+    n = len(array) # len 함수도 for문이므로 시간복잡도 해결을 위해 제거
+    
+    if n <= 1:
         return array
-    for i in range(len(array)):
+    for i in range(n):
         min_index = i
-        for j in range(i + 1, len(array)):
+        for j in range(i + 1, n):
             if array[min_index] > array[j]:
                 min_index = j
     

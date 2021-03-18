@@ -9,9 +9,11 @@ for _ in range(10000):
     numbers.append(randint(1,100))
 
 def insertion_sort(array):
-    if len(array) <= 1:
+    n = len(array) # len 함수도 for문이므로 시간복잡도 해결을 위해 제거
+    
+    if n <= 1:
         return array
-    for i in range(1, len(array)):
+    for i in range(1, n):
         j = i - 1
         key = array[i]
         while j >= 0 and array[j] > key: # key랑 같아질 경우 끝냄!

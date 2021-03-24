@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day5]ErrorHandling.py
+# Title         : [CodeLion]ErrorHandling.py
 # Description   : 예외 처리 방법
 #                 프로그램은 돌아가도록 구현하는 것이 목표이다.                
 #                 또한, 문법적으로 에러가 없지만, 코드 실행(런타임) 프로세스에서 발생하는 예외 처리도 존재

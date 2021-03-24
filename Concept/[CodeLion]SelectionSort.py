@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day2]SelectionSort.py
+# Title         : [CodeLion]SelectionSort.py
 # Description   : selection sorting
 
 from random import randint

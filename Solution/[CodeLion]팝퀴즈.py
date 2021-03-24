@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day5]팝퀴즈.py
+# Title         : [CodeLion]팝퀴즈.py
 # Description   : 16번, 17번 문제
 
 # Q1 : 친구 키 비교 문제

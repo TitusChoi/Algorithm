@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day6]Recursive.py
+# Title         : [CodeLion]Recursive.py
 # Description   : recursive
 
 # def recursive_function(n):

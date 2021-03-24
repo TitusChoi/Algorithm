@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day6]Queue.py
+# Title         : [CodeLion]Queue.py
 # Description   : Queue
 
 from collections import deque

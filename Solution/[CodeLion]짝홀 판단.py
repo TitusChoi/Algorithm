@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day1]짝홀 판단.py
+# Title         : [CodeLion]짝홀 판단.py
 # Description   : condition
 
 # def average(array):

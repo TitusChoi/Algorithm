@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day2]LibrarySort.py
+# Title         : [CodeLion]LibrarySort.py
 # Description   : library 활용 sorting
 
 from random import randint

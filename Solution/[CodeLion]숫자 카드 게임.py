@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day4]숫자 카드 게임.py
+# Title         : [CodeLion]숫자 카드 게임.py
 # Description   : greedy
 
 # 쉬운 구현

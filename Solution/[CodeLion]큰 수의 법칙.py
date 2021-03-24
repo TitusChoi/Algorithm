@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day3]큰 수의 법칙.py
+# Title         : [CodeLion]큰 수의 법칙.py
 # Description   : greedy
 
 # 손 풀기 문제

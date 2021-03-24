@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day4]1이 될 때까지.py
+# Title         : [CodeLion]1이 될 때까지.py
 # Description   : greedy
 
 n, k = map(int, input().split())

@@ -1,4 +1,4 @@
-# Title         : [CodeLion_Day2]거스름 돈.py
+# Title         : [CodeLion]거스름 돈.py
 # Description   : greedy
 
 N = 1260 # 임의의 돈

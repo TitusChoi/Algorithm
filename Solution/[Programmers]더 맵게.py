@@ -4,6 +4,7 @@
 
 import heapq
 
+
 def solution(scoville, K):
     heapq.heapify(scoville) # 최소 힙
     
@@ -19,3 +20,5 @@ def solution(scoville, K):
             return -1
     
     return count
+
+print(solution([1, 2, 3, 9, 10, 12], 7))

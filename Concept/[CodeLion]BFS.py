@@ -8,8 +8,8 @@ def bfs(graph, start, visited):
     queue = deque([start])
     visited[start] = True
     while queue:
-        v = queue.popleft()
-        print(v, end = ' ')
+        v = queue.popleft() # 바로 출력하기 위한 기법
+        print(v, end = ' ') # pop된 자료 출력
         for i in graph[v]:
             if not visited[i]:
                 queue.append(i)

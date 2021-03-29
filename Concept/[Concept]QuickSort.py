@@ -1,5 +1,5 @@
 # Title         : [Concept]QuickSort.py
-# Description   : quick sorting
+# Description   : quick sorting -> 실전용
 
 from random import randint
 import time

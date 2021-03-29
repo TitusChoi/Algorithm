@@ -5,7 +5,7 @@ n, m = map(int, input().split()) # 행과 열 입력
 graph = []
 
 for _ in range(n):
-    graph.append(list(map(int, input()))) # 붙여서 쓸 경우에 그냥 입력
+    graph.append(list(map(int, input()))) # 붙여서 쓸 경우에 append 활용
 
 def dfs(x, y):
     if x <= -1 or y <= -1 or x >= n or y >= m:

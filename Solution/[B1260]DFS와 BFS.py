@@ -13,7 +13,7 @@ for _ in range(m):
 
 def dfs(start, visited):
     matrix_length = len(matrix[start]) # 시간복잡도 줄이기
-    visited += [start]
+    visited += [start] # stack 형태로 구현
     print(start, end = ' ') # pop된 자료 그 자리에서 바로 출력
     for k in range(matrix_length):
         if matrix[start][k] == 1 and k not in visited:

@@ -13,6 +13,8 @@ def insertion_sort(array):
     
     if n <= 1:
         return array
+
+    # 핵심 알고리즘    
     for i in range(1, n): # 2행부터 시작
         for j in range(i, 0, -1): # 거꾸로 값 확인하기 i부터 1까지
             if array[j] < array[j - 1]: # 작으면 바꾸기

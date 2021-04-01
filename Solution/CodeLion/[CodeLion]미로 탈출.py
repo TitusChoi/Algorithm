@@ -28,7 +28,7 @@ def bfs(x, y):
 
             # 처음 방문하는 경우에만 최단 거리 기록
             if graph[nx][ny] == 1: # 처음 방문하는 경우
-                graph[nx][ny] = graph[x][y] + 1 # 처음 방문하는 경우
+                graph[nx][ny] = graph[x][y] + 1 # 처음 방문하는 경우, 전에 있었던 위치에 1씩 더함
                 # 최종 위치에 도달하게 되면 더할게 없어서 반복문 탈출
                 queue.append((nx, ny))
 

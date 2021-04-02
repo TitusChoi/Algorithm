@@ -23,6 +23,7 @@ def dfs(x, y):
 
     return False
 
+# 각 방향에 True인 경우 결과에 꼭 반영해주기
 result = 0
 for i in range(n):
     for j in range(m):

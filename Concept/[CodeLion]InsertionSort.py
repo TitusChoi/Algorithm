@@ -1,5 +1,5 @@
 # Title         : [CodeLion]InsertionSort.py
-# Description   : insertion sorting -> 실전용
+# Description   : sorting -> 실전용
 
 from random import randint
 import time
